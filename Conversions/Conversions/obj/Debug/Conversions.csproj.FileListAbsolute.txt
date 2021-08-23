@@ -1,0 +1,10 @@
+C:\PjtVS\00 2C5 PjtVSProgSys\Conversions\Conversions\bin\Debug\Conversions.exe.config
+C:\PjtVS\00 2C5 PjtVSProgSys\Conversions\Conversions\bin\Debug\Conversions.exe
+C:\PjtVS\00 2C5 PjtVSProgSys\Conversions\Conversions\bin\Debug\Conversions.pdb
+C:\PjtVS\00 2C5 PjtVSProgSys\Conversions\Conversions\obj\Debug\Conversions.csprojAssemblyReference.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\Conversions\Conversions\obj\Debug\Conversions.frfmConversions.resources
+C:\PjtVS\00 2C5 PjtVSProgSys\Conversions\Conversions\obj\Debug\Conversions.Properties.Resources.resources
+C:\PjtVS\00 2C5 PjtVSProgSys\Conversions\Conversions\obj\Debug\Conversions.csproj.GenerateResource.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\Conversions\Conversions\obj\Debug\Conversions.csproj.CoreCompileInputs.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\Conversions\Conversions\obj\Debug\Conversions.exe
+C:\PjtVS\00 2C5 PjtVSProgSys\Conversions\Conversions\obj\Debug\Conversions.pdb
