@@ -8,3 +8,13 @@ C:\PjtVS\00 2C5 PjtVSProgSys\Conversions\Conversions\obj\Debug\Conversions.cspro
 C:\PjtVS\00 2C5 PjtVSProgSys\Conversions\Conversions\obj\Debug\Conversions.csproj.CoreCompileInputs.cache
 C:\PjtVS\00 2C5 PjtVSProgSys\Conversions\Conversions\obj\Debug\Conversions.exe
 C:\PjtVS\00 2C5 PjtVSProgSys\Conversions\Conversions\obj\Debug\Conversions.pdb
+H:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\GitHub\CLL_ProgrammationSysteme\Conversions\Conversions\bin\Debug\Conversions.exe.config
+H:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\GitHub\CLL_ProgrammationSysteme\Conversions\Conversions\bin\Debug\Conversions.exe
+H:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\GitHub\CLL_ProgrammationSysteme\Conversions\Conversions\bin\Debug\Conversions.pdb
+H:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\GitHub\CLL_ProgrammationSysteme\Conversions\Conversions\obj\Debug\Conversions.csprojAssemblyReference.cache
+H:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\GitHub\CLL_ProgrammationSysteme\Conversions\Conversions\obj\Debug\Conversions.frfmConversions.resources
+H:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\GitHub\CLL_ProgrammationSysteme\Conversions\Conversions\obj\Debug\Conversions.Properties.Resources.resources
+H:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\GitHub\CLL_ProgrammationSysteme\Conversions\Conversions\obj\Debug\Conversions.csproj.GenerateResource.cache
+H:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\GitHub\CLL_ProgrammationSysteme\Conversions\Conversions\obj\Debug\Conversions.csproj.CoreCompileInputs.cache
+H:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\GitHub\CLL_ProgrammationSysteme\Conversions\Conversions\obj\Debug\Conversions.exe
+H:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\GitHub\CLL_ProgrammationSysteme\Conversions\Conversions\obj\Debug\Conversions.pdb

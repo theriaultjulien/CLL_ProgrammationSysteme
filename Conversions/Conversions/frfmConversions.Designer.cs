@@ -332,6 +332,7 @@
             this.btnDecHexa.TabIndex = 33;
             this.btnDecHexa.Text = "-->";
             this.btnDecHexa.UseVisualStyleBackColor = true;
+            this.btnDecHexa.Click += new System.EventHandler(this.btnDecHexa_Click);
             // 
             // btnHexaDec
             // 
@@ -343,6 +344,7 @@
             this.btnHexaDec.TabIndex = 32;
             this.btnHexaDec.Text = "-->";
             this.btnHexaDec.UseVisualStyleBackColor = true;
+            this.btnHexaDec.Click += new System.EventHandler(this.btnHexaDec_Click);
             // 
             // btnDecBin
             // 
@@ -354,6 +356,7 @@
             this.btnDecBin.TabIndex = 31;
             this.btnDecBin.Text = "-->";
             this.btnDecBin.UseVisualStyleBackColor = true;
+            this.btnDecBin.Click += new System.EventHandler(this.btnDecBin_Click);
             // 
             // btnBinaireDecimal
             // 
