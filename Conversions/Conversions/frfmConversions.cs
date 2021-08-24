@@ -112,6 +112,76 @@ namespace Conversions
 
         private void btnDecHexa_Click(object sender, EventArgs e)
         {
+            string sDecimal = txtDecimalAHexa.Text;
+            int nbDecimal;
+            string sHexa = "";
+            bool valide;
+
+            //Valider
+            valide = int.TryParse(sDecimal, out nbDecimal);
+            if (!valide)
+            {
+                MessageBox.Show("Le nombre entré est invalide");
+                return;
+            }
+
+            //Traitement (Le overload de la fonction ToString "X" met un int en string Hexa directement)
+            sHexa = nbDecimal.ToString("X");
+
+            //Afficher
+            txtHexaDeDec.Text = sHexa;
+        }
+
+        private void btnBinHexa_Click(object sender, EventArgs e)
+        {
+            //Lire les données 
+            string sBinaire = txtBinAHexa.Text;
+            string sHexa;
+            int i = 0;
+
+            //Valider les données
+            if (sBinaire.Length > 8)
+            {
+                MessageBox.Show("Le nombre binaire doit être sur 8 bits ou moins");
+                return;
+            }
+            while ((i < sBinaire.Length) && (sBinaire[i] == '0' || sBinaire[i] == '1'))
+            {
+                i++;
+            }
+            if (i < sBinaire.Length)
+            {
+                MessageBox.Show("Un nombre binaire peut seulement être composé de 1 ou de 0");
+                return;
+            }
+
+            //Traitement
+                //convert binary to dec using Convert.ToInt32 then convert the dec to hexa using .ToString("X")
+            sHexa = Convert.ToInt32(sBinaire, 2).ToString("X");
+
+            //Afficher
+            textBox10.Text = sHexa;
+        }
+
+        private void btnHexaBin_Click(object sender, EventArgs e)
+        {
+            string sHexa = txtHexaABin.Text;
+            string sBinaire;
+            bool valide;
+
+            //Valider données
+            valide = sHexa.All("0123456789abcdefABCDEF".Contains);
+            if (!valide)
+            {
+                MessageBox.Show("Le nombre entré est invalide");
+                return;
+            }
+
+            //Traitement
+            sBinaire = Convert.ToString(Convert.ToInt32(sHexa, 16), 2);
+
+            //Afficher
+            txtBinDeHexa.Text = sBinaire;
 
         }
     }
