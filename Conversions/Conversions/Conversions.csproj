@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CBase.cs" />
     <Compile Include="frfmConversions.cs">
       <SubType>Form</SubType>
     </Compile>
