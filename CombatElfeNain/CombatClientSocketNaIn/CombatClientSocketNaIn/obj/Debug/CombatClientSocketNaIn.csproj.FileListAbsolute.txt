@@ -1,0 +1,30 @@
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.exe.config
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.exe
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.pdb
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csprojAssemblyReference.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.frmClienSocketNain.resources
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.Properties.Resources.resources
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.GenerateResource.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.CoreCompileInputs.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.exe
+C:\PjtVS\00 2C5 PjtVSProgSys\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.pdb
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.exe.config
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.exe
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.pdb
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csprojAssemblyReference.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.frmClienSocketNain.resources
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.Properties.Resources.resources
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.GenerateResource.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.CoreCompileInputs.cache
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.exe
+C:\PjtVS\00 2C5 PjtVSProgSys\ZIP\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.pdb
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 12\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.exe.config
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 12\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.exe
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 12\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\bin\Debug\CombatClientSocketNaIn.pdb
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 12\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.AssemblyReference.cache
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 12\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.frmClienSocketNain.resources
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 12\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.Properties.Resources.resources
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 12\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.GenerateResource.cache
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 12\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.csproj.CoreCompileInputs.cache
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 12\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.exe
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 12\CombatElfeNain\CombatClientSocketNaIn\CombatClientSocketNaIn\obj\Debug\CombatClientSocketNaIn.pdb
