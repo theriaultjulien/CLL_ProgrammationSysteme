@@ -63,6 +63,7 @@ namespace CombatClientSocketNaIn
 
         private void btnFrappe_Click(object sender, EventArgs e)
         {
+	    //Déclaration variable
             Socket client;
             string reponse = "aucune";
             int nbOctetReception;
