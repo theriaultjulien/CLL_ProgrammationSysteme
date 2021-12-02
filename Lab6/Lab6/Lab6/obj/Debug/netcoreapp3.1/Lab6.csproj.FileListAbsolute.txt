@@ -1,0 +1,16 @@
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.AssemblyReference.cache
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.frmLab6.resources
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.GenerateResource.cache
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfoInputs.cache
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfo.cs
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.CoreCompileInputs.cache
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.exe
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.deps.json
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.json
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.dev.json
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.dll
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.pdb
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.dll
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.pdb
+J:\Session 3 (Automne 2021)\Programmation système (420-2C5-LL)\Semaine 14\Lab6\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.genruntimeconfig.cache
